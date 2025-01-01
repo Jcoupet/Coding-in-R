@@ -11,18 +11,18 @@ info:
  course_title: Coding in R for Policy Analytics 
  course_number: Econ 8730 / PMAP 8541 / CRJU 8900
  course_level: Graduate
- course_website: "https://gastate.view.usg.edu/d2l/home/2989895"
- course_start_end_dates: January 8 - February 24, 2024
+ course_website: "[https://gastate.view.usg.edu/d2l/home/2989895](https://gastate.view.usg.edu/d2l/home/2989895)"
+ course_start_end_dates: January 13 - March 1, 2025
  course_prerequisites:  
  class_meets_when:  Online Asynchronously
  class_meets_where: Online Asynchronously
 
 instructor:
--  name: Lorenzo Almada
-   title: Clinical Associate Professor
-   email: lalmada1@gsu.edu
-   office_location: 55 Park Place Room 682
-   website: "https://aysps.gsu.edu/profile/lorenzo-almada/"
+-  name: Jason Copuet
+   title: Associate Professor
+   email: jcoupet@gsu.edu
+   office_location: 55 Park Place Room 
+   website: "https://aysps.gsu.edu/profile/jason-coupet/"
    office_hours_time: Fridays 11:00 - Noon or by Appointment (email me!)  
    office_hours_location:  
 
