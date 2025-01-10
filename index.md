@@ -18,14 +18,14 @@ info:
  class_meets_where: Online Asynchronously
 
 instructor:
--  name: Jason Copuet
+-  name: Jason Coupet
    title: Associate Professor
    email: jcoupet@gsu.edu
    office_location: 55 Park Place Room 
    website: "https://aysps.gsu.edu/profile/jason-coupet/"
    office_hours_time: Fridays 11:00 - Noon or by Appointment (email me!)  
    office_hours_location:  
-
+   Teaching Assistant: jgreathouse3@student.gsu.edu  
 
 textbooks:
 - title: R Cookbook, 2nd Edition
