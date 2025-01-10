@@ -216,7 +216,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through [**iCollege**](https://gastate.view.usg.edu/d2l/home/2989895).
 
-Please schedule individual office hours, or email the instructor directly.
+Please schedule individual office hours, or email the instructor directly. Students requesting technical assistance with the course (such as help with Markdown) should first reach out to the Teaching Assistant (jgreathouse3@student.gsu.edu). 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
@@ -244,7 +244,7 @@ This course spans a seven-week schedule. A schedule for each week of the term is
 
 Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignments. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
-Visit the [**Course Schedule**](https://lalmada1.github.io/Coding-in-R/schedule).
+Visit the [**Course Schedule**](https://jcoupet.github.io/Coding-in-R/schedule).
 
 <br>
 <br>
