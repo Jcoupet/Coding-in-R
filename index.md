@@ -21,9 +21,9 @@ instructor:
 -  name: Jason Coupet
    title: Associate Professor
    email: jcoupet@gsu.edu
-   office_location: 55 Park Place Room 
+   office_location: 55 Park Place Room 465
    website: "https://aysps.gsu.edu/profile/jason-coupet/"
-   office_hours_time: Fridays 11:00 - Noon or by Appointment (email me!)  
+   office_hours_time: Fridays 1pm - 2pm or by Appointment (email me!)  
    office_hours_location:  
    Teaching Assistant: jgreathouse3@student.gsu.edu  
 
